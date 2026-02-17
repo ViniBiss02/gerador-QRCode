@@ -1,6 +1,6 @@
-package com.fernandakipper.qrcode.generator.infrastructure;
+package com.example.gerador.QRCode.infrastructure;
 
-import com.fernandakipper.qrcode.generator.ports.StoragePort;
+import com.example.gerador.QRCode.ports.StoragePort;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import software.amazon.awssdk.core.sync.RequestBody;
